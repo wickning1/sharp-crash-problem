@@ -3,3 +3,4 @@ services:
   sharp-crash-problem:
     build:
       context: .
+    container_name: sharp-crash-problem
