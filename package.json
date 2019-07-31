@@ -1,0 +1,23 @@
+{
+  "name": "sharp-gif-problem",
+  "version": "1.0.0",
+  "description": "Demonstrating a crash experienced while processing an image with sharp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sharp": "^0.23.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wickning1/sharp-gif-problem.git"
+  },
+  "author": "Nick Wing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wickning1/sharp-gif-problem/issues"
+  },
+  "homepage": "https://github.com/wickning1/sharp-gif-problem#readme"
+}
